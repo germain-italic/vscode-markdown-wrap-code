@@ -3,6 +3,10 @@
   "displayName": "Markdown Wrap Code",
   "description": "Wrap selected text in ```backticks fence``` for markdown editing",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/germain-italic/vscode-markdown-wrap-code.git"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
@@ -10,7 +14,7 @@
     "Other"
   ],
   "activationEvents": [
-    "*"
+    "onLanguage:markdown"
   ],
   "main": "./dist/extension.js",
   "contributes": {
