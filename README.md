@@ -1,5 +1,7 @@
 # markdown-wrap-code README
 
+Marketplace/download link: https://marketplace.visualstudio.com/items?itemName=germainitalic.markdown-wrap-code
+
 ## Features
 
 Wraps the selected text into triple backticks fence:
