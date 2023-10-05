@@ -2,6 +2,7 @@
   "name": "markdown-wrap-code",
   "displayName": "Markdown Wrap Code",
   "description": "Wrap selected text in ```backticks fence``` for markdown editing",
+  "publisher": "germain-italic",
   "version": "1.0.0",
   "repository": {
     "type": "git",
